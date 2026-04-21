@@ -16,7 +16,7 @@ I'm currently learning
 [![](https://komarev.com/ghpvc/?username=tejas49167-ui&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/tejasgowda934) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tejasgowda934) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
