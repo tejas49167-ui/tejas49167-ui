@@ -1,5 +1,4 @@
 
-I'm currently learning
 
 
 ## 🌐 Socials:
