@@ -3,7 +3,7 @@
 
 **Cybersecurity Student | Software Developer | Product Builder**
 
-- Currently building **[MUSTMAKE](https://mustmake.site)**
+- Currently building **[MUSTMAKE](https://mustmake.vercel.app)**
 - Developing AI-powered applications and exploring local AI systems
 - Interested in application security, ethical hacking and secure software development
 - Pursuing B.E. in Cyber Security through VTU
