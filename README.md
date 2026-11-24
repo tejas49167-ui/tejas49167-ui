@@ -1,51 +1,72 @@
 
 # Tejas S. Gowda
 
-**Software Developer | AI & Application Development**
+**Cybersecurity Student | Software Developer | Product Builder**
 
-- Currently developing **MUSTMAKE**
-- Interested in AI, computer vision and software engineering
-- Exploring Android development and on-device AI
-- Focused on building practical software solutions
+- Currently building **[MUSTMAKE](https://mustmake.site)**
+- Developing AI-powered applications and exploring local AI systems
+- Interested in application security, ethical hacking and secure software development
+- Pursuing B.E. in Cyber Security through VTU
 
----
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-gowda-s-68377737b/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@Tejas.s.gowda.6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tejas49167@gmail.com)
+[Portfolio](https://tejasgowda.vercel.app) | [LinkedIn](https://linkedin.com/in/tejas-gowda-s-68377737b/) | [GitHub](https://github.com/tejas49167-ui) | [YouTube](https://youtube.com/@Tejas.s.gowda.6) | [Email](mailto:tejas49167@gmail.com)
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-**Languages**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-**Web & Android**
+**Web Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 **AI & Machine Learning**
 
+![Local AI](https://img.shields.io/badge/Local_AI-333333?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat)
+![On Device AI](https://img.shields.io/badge/On--Device_AI-00897B?style=flat)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-009688?style=flat&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
-**Database & Deployment**
+- Local AI processing and inference
+- Retrieval-Augmented Generation (RAG)
+- Document and PDF analysis
+- Context-aware retrieval and chat
+- Computer Vision
 
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Cybersecurity**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+
+- Network Security
+- Web Application Security
+- Penetration Testing
+- Vulnerability Assessment
+- OWASP Top 10
+- Ethical Hacking
+
+**Cloud & Deployment**
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
@@ -55,19 +76,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 ---
 
 ## Areas of Interest
 
-- Artificial Intelligence
-- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence & Local AI
+- Retrieval-Augmented Generation
+- Cybersecurity & Ethical Hacking
+- Application & Network Security
 - Computer Vision
-- On-Device AI
 - Android Development
-- Offline-First Architecture
 - Software Engineering
+- Secure System Design
 
 ---
 
@@ -81,7 +103,7 @@
 
 ---
 
-## Support
+## Support My Work
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tejasgowda934)
 
