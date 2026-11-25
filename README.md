@@ -38,12 +38,14 @@
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat)
 ![On Device AI](https://img.shields.io/badge/On--Device_AI-00897B?style=flat)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-009688?style=flat&logo=google&logoColor=white)
+![Local AI](https://img.shields.io/badge/Local_AI-412991?style=flat&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-0A7B83?style=flat&logo=googlegemini&logoColor=white)
+![Document Analysis](https://img.shields.io/badge/Document_Analysis-4285F4?style=flat&logo=googledocs&logoColor=white)
+![PDF Analysis](https://img.shields.io/badge/PDF_Analysis-B40B0B?style=flat&logo=adobeacrobatreader&logoColor=white)
+![Context Aware AI](https://img.shields.io/badge/Context_Aware_AI-6A5ACD?style=flat&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-- Local AI processing and inference
-- Retrieval-Augmented Generation (RAG)
-- Document and PDF analysis
-- Context-aware retrieval and chat
-- Computer Vision
+
 
 **Database**
 
@@ -57,13 +59,12 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-
-- Network Security
-- Web Application Security
-- Penetration Testing
-- Vulnerability Assessment
-- OWASP Top 10
-- Ethical Hacking
+![Network Security](https://img.shields.io/badge/Network_Security-0078D4?style=flat&logo=cisco&logoColor=white)
+![Web Application Security](https://img.shields.io/badge/Web_Application_Security-FF6633?style=flat&logo=owasp&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-2596CD?style=flat&logo=kalilinux&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-D32F2F?style=flat&logo=hackthebox&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-2E8B57?style=flat&logo=hackthebox&logoColor=white)
 
 **Cloud & Deployment**
 
@@ -80,16 +81,16 @@
 
 ---
 
-## Areas of Interest
-
+## I'm interested in 
+- Software Engineering
+- Secure System Design
+- Cybersecurity & Ethical Hacking
 - Artificial Intelligence & Local AI
 - Retrieval-Augmented Generation
-- Cybersecurity & Ethical Hacking
 - Application & Network Security
 - Computer Vision
 - Android Development
-- Software Engineering
-- Secure System Design
+
 
 ---
 
@@ -103,8 +104,8 @@
 
 ---
 
-## Support My Work
+
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tejasgowda934)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tejas49167-ui&style=flat&color=555555)](https://github.com/tejas49167-ui)
+[![Profile views](https://komarev.com/ghpvc/?username=tejas49167-ui&style=flat&color=555555)](https://github.com/tejas49167-ui)
