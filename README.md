@@ -8,7 +8,7 @@
 - Interested in application security, ethical hacking and secure software development
 - Pursuing B.E. in Cyber Security through VTU
 
-[Portfolio](https://tejasgowda.vercel.app) | [LinkedIn](https://linkedin.com/in/tejas-gowda-s-68377737b/) | [YouTube](https://youtube.com/@Tejas.s.gowda.6) | [Email](mailto:tejas49167@gmail.com)
+[Portfolio](https://tejasgowda.vercel.app) | [LinkedIn](https://linkedin.com/in/tejassgowda/) | [YouTube](https://youtube.com/@Tejas.s.gowda.6) | [Email](mailto:tejas49167@gmail.com)
 
 ---
 
